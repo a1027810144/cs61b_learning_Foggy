@@ -1,1 +1,0 @@
-该作业为CS61B sp21课程的作业0,网站为：https://sp21.datastructur.es/materials/hw/hw0/hw0
